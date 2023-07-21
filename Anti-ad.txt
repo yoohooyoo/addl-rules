@@ -21,6 +21,8 @@ payload:
   - '+.ulog-sdk.gifshow.com'
   - '+.yxings.com'
   - '+.jpush.io'
+  - 'log-sdk.ksapisrv.com'
+  - '+.kwaidc.com'
 
   #openai日志平台
   - '+.sentry.io'
