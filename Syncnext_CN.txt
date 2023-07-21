@@ -1,0 +1,10 @@
+payload:
+  # from https://qoli.notion.site/Syncnext-b03e80d0a53b4130b80c27d47d154b77
+  # 配套功能
+  - '+.movie.douban.com' # 首頁推薦內容（大陸內可用）
+  # 頻道
+  - '+.mddcloud.com.cn' #只能大陸 IP 訪問
+  - '+.ddys.art' #低端視頻
+  - '+.agefans.app'
+  # VOD
+  - '+.aliyundrive.asia' # 猜測只能中國大陸或亞洲訪問
