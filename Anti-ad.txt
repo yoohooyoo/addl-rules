@@ -12,5 +12,14 @@ payload:
   - '+.ugdtimg.com'
   - '+.pangolin-sdk-toutiao-b.com'
   - '+.pangolin-sdk-toutiao.com'
+  - 'dsp.liftguard.vip'
+  - '+.kwings.com'
+  - 'wokaiad.xinhuitc.cn'
+  - '+.gdfp.gifshow.com'
+  - '+.log-sdk.gifshow.com'
+  - '+.ad.partner.gifshow.com'
+  - '+.ulog-sdk.gifshow.com'
+  - '+.yxings.com'
+
   #openai日志平台
   - '+.sentry.io'
