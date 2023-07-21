@@ -19,7 +19,7 @@ payload:
   - '+.log-sdk.gifshow.com'
   - '+.ad.partner.gifshow.com'
   - '+.ulog-sdk.gifshow.com'
-  - '+.yxings.com'
+  #- '+.yxings.com'
   - '+.jpush.io'
   - 'log-sdk.ksapisrv.com'
   - '+.kwaidc.com'
