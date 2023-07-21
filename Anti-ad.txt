@@ -1,0 +1,16 @@
+#广告 和 跟踪
+payload:
+  - '+.miav-cse.avlyun.com'
+  - '+.a0.app.xiaomi.com'
+  - '+.miui-fxcse.avlyun.com'
+  - '+.api.installer.xiaomi.com'
+  - '+.compoundchaise.com'
+  - '+.googletagmanager.com'
+  - '+.adukwai.com'
+  - '+.cpatrk.net'
+  - '+.gdtimg.com'
+  - '+.ugdtimg.com'
+  - '+.pangolin-sdk-toutiao-b.com'
+  - '+.pangolin-sdk-toutiao.com'
+  #openai日志平台
+  - '+.sentry.io'
