@@ -20,6 +20,7 @@ payload:
   - '+.ad.partner.gifshow.com'
   - '+.ulog-sdk.gifshow.com'
   - '+.yxings.com'
+  - '+.jpush.io'
 
   #openai日志平台
   - '+.sentry.io'
