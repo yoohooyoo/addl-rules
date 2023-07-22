@@ -13,7 +13,7 @@ payload:
   - '+.pangolin-sdk-toutiao-b.com'
   - '+.pangolin-sdk-toutiao.com'
   - 'dsp.liftguard.vip'
-  - '+.kwings.com'
+  #- '+.kwings.com'
   - 'wokaiad.xinhuitc.cn'
   - '+.gdfp.gifshow.com'
   - '+.log-sdk.gifshow.com'
@@ -24,6 +24,7 @@ payload:
   - 'log-sdk.ksapisrv.com'
   - 'ulogjs.ksapisrv.com'
   - '+.kwaidc.com'
+  - '+.easytomessage.com'
 
   #openai日志平台
   - '+.sentry.io'
