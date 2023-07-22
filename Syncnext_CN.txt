@@ -12,3 +12,7 @@ payload:
   # VOD
   # 猜測只能中國大陸或亞洲訪問
   - '+.aliyundrive.asia' 
+  # 只能中国区域访问
+  - '+.lencr.org'
+  - 'bj.liftguard.vip'
+  - 'liftguard.top'
