@@ -16,3 +16,4 @@ payload:
   - '+.lencr.org'
   - 'bj.liftguard.vip'
   - 'liftguard.top'
+  - 'unispc.com'
