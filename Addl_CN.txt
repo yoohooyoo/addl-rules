@@ -14,7 +14,7 @@ payload:
   - '+.aliyundrive.asia' 
   # 只能中国区域访问
   - '+.lencr.org'
-  - '+.appcenter.ms'
+  - '+.bfzycdn.com'
   - 'bj.liftguard.vip'
   - 'liftguard.top'
   - 'unispc.com'
