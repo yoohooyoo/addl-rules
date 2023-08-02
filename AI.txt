@@ -3,7 +3,6 @@ payload:
   #openai相关
   - '+.openai.com'
   - '+.poe.com'
-  - 'o33249.ingest.sentry.io'
   - 'cdn.auth0.com'
   - '+.ai.com'
   - '+.identrust.com'
