@@ -15,6 +15,9 @@ payload:
   # 只能中国区域访问
   - '+.lencr.org'
   - '+.bfzycdn.com'
+  - '+.bfzypic.com'
+  - '+.bdzybf7.com'
+  - '+.bdzyimg.com'
   - 'bj.liftguard.vip'
   - 'liftguard.top'
   - 'unispc.com'
