@@ -19,5 +19,5 @@ payload:
   - '+.bdzybf7.com'
   - '+.bdzyimg.com'
   - 'bj.liftguard.vip'
-  - 'liftguard.top'
-  - 'unispc.com'
+  - '+.liftguard.top'
+  - '+.unispc.com'
