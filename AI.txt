@@ -17,6 +17,7 @@ payload:
 
   #Midjourney相关
   - '+.discord.com'
+  - '+.midjourney.com'
 
   #机器验证相关
   - '+.challenges.cloudflare.com'
