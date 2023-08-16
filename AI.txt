@@ -11,6 +11,7 @@ payload:
   #claude相关
   - '+.claude.ai'
   - '+.anthropic.com'
+  - 'servd-anthropic-website.b-cdn.net'
 
   #bing AI相关
   - '+.bing.com'
