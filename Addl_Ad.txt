@@ -28,6 +28,7 @@ payload:
   - 'pic.yupoo.com'
   - 'app-cdn.ipad.ly'
   - 'icity-mwtr.2q10.com'
+  - 'app-inject.2q10.com'
 
   #openai日志平台
   - '+.sentry.io'
