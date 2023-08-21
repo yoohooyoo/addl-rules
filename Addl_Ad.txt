@@ -25,7 +25,7 @@ payload:
   - 'ulogjs.ksapisrv.com'
   - '+.kwaidc.com'
   - '+.easytomessage.com'
-  - '+.yupoo.com'
+  - 'pic.yupoo.com'
 
   #openai日志平台
   - '+.sentry.io'
