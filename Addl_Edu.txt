@@ -4,7 +4,6 @@ payload:
   - '+.timeshighereducation.com'
   - '+.niche.com'
   - '+.oxfordlearnersdictionaries.com'
-  - '+.youtube.com'
   - '+.mentorx.net'
   - '+.linkedin.com'
   - '+.quantnet.com'
