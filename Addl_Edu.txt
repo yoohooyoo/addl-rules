@@ -30,3 +30,4 @@ payload:
   - '+.hkcc-polyu.edu.hk'
   - '+.oxfordaqa.com'
   - '+.uwaterloo.ca'
+  - '+.gov.uk'
