@@ -19,3 +19,4 @@ payload:
   - '+.cdn.venus7202.com'
   - '+.cdn.ceres9350.com'
   - '+.cdn.efhie.com'
+  - '+.notion.so'
