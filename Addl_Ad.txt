@@ -25,6 +25,7 @@ payload:
   - 'ulogjs.ksapisrv.com'
   - '+.kwaidc.com'
   - '+.easytomessage.com'
+  - '+.keyboot.com'
 
 
   #openai日志平台
