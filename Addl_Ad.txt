@@ -13,6 +13,7 @@ payload:
   - '+.pangolin-sdk-toutiao-b.com'
   - '+.pangolin-sdk-toutiao.com'
   - 'dsp.liftguard.vip'
+  - '+.liftguard.top'
   #- '+.kwings.com'
   - 'wokaiad.xinhuitc.cn'
   - '+.gdfp.gifshow.com'
@@ -21,11 +22,12 @@ payload:
   - '+.ulog-sdk.gifshow.com'
   - '+.yxings.com'
   - '+.jpush.io'
+  - '+.jpush.cn'
   - 'log-sdk.ksapisrv.com'
   - 'ulogjs.ksapisrv.com'
   - '+.kwaidc.com'
   - '+.easytomessage.com'
-  - '+.keyboot.com'
+  
 
 
   #openai日志平台
