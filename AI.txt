@@ -8,6 +8,9 @@ payload:
   - '+.identrust.com'
   - '+.stripe.com'
 
+  #openai日志平台
+  - '+.sentry.io'
+
   #claude相关
   - '+.claude.ai'
   - '+.anthropic.com'
