@@ -28,8 +28,3 @@ payload:
   - 'ulogjs.ksapisrv.com'
   - '+.kwaidc.com'
   - '+.easytomessage.com'
-  
-
-
-  #openai日志平台
-  - '+.sentry.io'
