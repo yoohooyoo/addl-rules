@@ -18,3 +18,4 @@ payload:
   - '+.kuaikan-cdn1.com'
   - '+.kuaikan-cdn2.com'
   - '+.kuaikan-cdn3.com'
+  - 'gator.volces.com'
