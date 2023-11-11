@@ -15,4 +15,6 @@ payload:
   - '+.ulivetv.net'
   - '+.kczybf.com'
   - '+.histar.tv'
+  - '+.kuaikan-cdn1.com'
+  - '+.kuaikan-cdn2.com'
   - '+.kuaikan-cdn3.com'
