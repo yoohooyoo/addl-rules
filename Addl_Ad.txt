@@ -29,3 +29,4 @@ payload:
   - '+.kwaidc.com'
   - '+.easytomessage.com'
   - '+.xuay0.vip'
+  - '+.abd300.com'
