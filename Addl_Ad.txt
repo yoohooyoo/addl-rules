@@ -28,3 +28,4 @@ payload:
   - 'ulogjs.ksapisrv.com'
   - '+.kwaidc.com'
   - '+.easytomessage.com'
+  - '+.xuay0.vip'
