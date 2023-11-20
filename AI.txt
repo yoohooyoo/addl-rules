@@ -9,6 +9,8 @@ payload:
   - '+.featuregates.org'
   - '+.intercom.io'
   - '+.intercomcdn.com'
+  - '+.oaiusercontent.com'
+  - '+.oaistatic.com'
 
   - '+.ai.com'
   - '+.identrust.com'
