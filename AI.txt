@@ -3,7 +3,13 @@ payload:
   #openai相关
   - '+.openai.com'
   - '+.poe.com'
-  - 'cdn.auth0.com'
+  - '+.auth0.com'
+  - 'client-api.arkoselabs.com'
+  - 'events.statsigapi.net'
+  - '+.featuregates.org'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
+
   - '+.ai.com'
   - '+.identrust.com'
   - '+.stripe.com'
