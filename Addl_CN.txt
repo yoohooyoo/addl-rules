@@ -1,20 +1,45 @@
 payload:
-  # from https://qoli.notion.site/Syncnext-b03e80d0a53b4130b80c27d47d154b77
-  # 配套功能
+  # from https://raw.githubusercontent.com/qoli/SyncnextClash/main/Unbreak-classical.yaml
   # 首頁推薦內容（大陸內可用）
   - '+.movie.douban.com' 
-  # 頻道
-  #只能大陸 IP 訪問
+  # 頻道只能大陸 IP 訪問
   - '+.mddcloud.com.cn' 
-  #低端視頻
+  # VOD 猜測只能中國大陸或亞洲訪問
+  - '+.aliyundrive.asia' 
   - '+.ddys.art' 
   - '+.agefans.app'
-  # VOD
-  # 猜測只能中國大陸或亞洲訪問
-  - '+.aliyundrive.asia' 
-  # 只能中国区域访问
-  - '+.lencr.org'
+  - '+.v.ddys.zip'
+  - '+.v.ddys.pro'
+  - '+.ddys.info'
+  - '+.ddys.wiki'
+  - '+.ddys.pro'
+  - '+.ddys.mov'
+  - '+.ddys.art'
+  - '+.zh188.net'
+  - '+.cz.cz01.site'
+  - '+.kczybf.com'
+  - '+.mixpanel.com'
+  - '+.appsflyer.com'
+  - '+.apple.com'
+  - '+.tv.apple.com'
+  - '+.ctyunxs.cn'
+  - '+.hls.aoxtv.com'
+  - '+.ffzy-play'
   - '+.bfzycdn.com'
+  - '+.lzcdn'
+  - '+.lz-cdn'
+  - '+.default.akamaized.net'
+  - '+.vip.ffzy-online'
+  - '+.ffzyread'
+  - '+.kuaikan-api.com'
+  - '+.czzy88.com'
+  - '+.cz01.vip'
+  - '+.CZZ9.COM'
+  - '+.v1.ax'
+  
+  # 自己补充
+  - '+.lencr.org'
+  #- '+.bfzycdn.com'
   - '+.bfzypic.com'
   - '+.bdzybf7.com'
   - '+.bdzyimg.com'
