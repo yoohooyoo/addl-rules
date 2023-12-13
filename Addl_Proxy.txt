@@ -10,13 +10,19 @@ payload:
   - '+.thetvdb.com'
   # 元數據圖片
   - '+.tmdb.org'
-  # 頻道
-  #歐樂部分影片的播放域名，提示 SSL 錯誤既需要翻牆
-  - '+.olemovienews.com' 
-  # 海外看 # 感謝各位群組成員反饋
+  # 新增https://raw.githubusercontent.com/qoli/SyncnextClash/main/proxy-classical.yaml
+  - '+.discord.com'
+  - '+.olevod.com'
+  - '+.olemovienews.com'
   - '+.haiwaikan.com'
   - '+.bfvvs.com'
   - '+.cdn.venus7202.com'
   - '+.cdn.ceres9350.com'
   - '+.cdn.efhie.com'
+  - '+.czzy.site'
+  - '+.cz01.vip'
+  - '+.picsum.photos'
+  - '+.ibb.co'
+  - '+.kin6c1.com'
+  # 頻道
   - '+.notion.so'
