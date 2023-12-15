@@ -10,3 +10,5 @@ payload:
   - '+.nbys1.tv'
   - '+.newpppp.com'
   - '+.biggggg.com'
+  - '+.ulivetv.net'
+  - '+.efhie.com'
