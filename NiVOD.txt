@@ -9,5 +9,4 @@ payload:
   - '+.nbys.tv'
   - '+.nbys1.tv'
   - '+.newpppp.com'
-  - '+.nivod4.tv'
   - '+.biggggg.com'
