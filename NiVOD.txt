@@ -12,3 +12,4 @@ payload:
   - '+.biggggg.com'
   - '+.ulivetv.net'
   - '+.efhie.com'
+  - '+.malaysla.com'
