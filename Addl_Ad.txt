@@ -30,3 +30,5 @@ payload:
   - '+.easytomessage.com'
   - '+.xuay0.vip'
   - '+.abd300.com'
+  - '+.d62xzg.xyz'
+  - '+.dafp0h.xyz'
