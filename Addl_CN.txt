@@ -8,3 +8,4 @@ payload:
   - 'bj.liftguard.vip'
   - '+.liftguard.top'
   - '+.unispc.com'
+  - '+.xfusion.com'
