@@ -16,7 +16,6 @@ payload:
   - '+.auth0.com'
   - '+.cdn.cloudflare.net'
   - '+.chatgpt.com'
-  - '+.challenges.cloudflare.com'
   - '+.client-api.arkoselabs.com'
   - '+.events.statsigapi.net'
   - '+.featuregates.org'
