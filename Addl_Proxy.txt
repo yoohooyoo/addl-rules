@@ -9,8 +9,3 @@ payload:
   - '+.dyndns.com'
   - '+.whatismyip.akamai.com'
   - '+.dyndns.org'
-  - '+.checkip.synology.com'
-  - '+.checkipv6.synology.com'
-  - '+.checkportddns.synology.com'
-  - '+.ddns.synology.com'
-  - '+.account.synology.com'
