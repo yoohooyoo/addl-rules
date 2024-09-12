@@ -1,2 +1,6 @@
 payload:
   - '+.notion.so'
+  - '+.quickconnect.to'
+  - '+.srv.nintendo.net'
+  - '+.tailscale.com'
+  - '+.tailscale.io'
