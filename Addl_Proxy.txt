@@ -8,19 +8,19 @@ payload:
   - '+.dyndns.com'
   - '+.dyndns.org'
   - '+.whatismyip.akamai.com'
-  - '+.d2f0395ykn6hxb.cloudfront.net
-  - '+.diskstation.me
-  - '+.dscloud.biz
-  - '+.dscloud.me
-  - '+.dscloud.mobi
-  - '+.dsmunas.com
-  - '+.dsmunas.net
-  - '+.dsmunas.org
-  - '+.familyds.com
-  - '+.familyds.net
-  - '+.familyds.org
-  - '+.i234.me
-  - '+.myds.com
-  - '+.synodns.com
-  - '+.synology.com
-  - '+.synology.me
+  - '+.d2f0395ykn6hxb.cloudfront.net'
+  - '+.diskstation.me'
+  - '+.dscloud.biz'
+  - '+.dscloud.me'
+  - '+.dscloud.mobi'
+  - '+.dsmunas.com'
+  - '+.dsmunas.net'
+  - '+.dsmunas.org'
+  - '+.familyds.com'
+  - '+.familyds.net'
+  - '+.familyds.org'
+  - '+.i234.me'
+  - '+.myds.com'
+  - '+.synodns.com'
+  - '+.synology.com'
+  - '+.synology.me'
